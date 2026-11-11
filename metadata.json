@@ -1,0 +1,6 @@
+{
+  "name": "Sangar",
+  "description": "High-performance SOCKS5 proxy tunnel client for secure WebSocket worker connections with profile management and live telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
